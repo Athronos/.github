@@ -3,7 +3,7 @@
   <h1>Athenyx</h1>
   <h3>Seamless Solutions, Limitless Possibilities.</h3>
   <p>
-    Athenyx is a dynamic startup based in the Philippines, committed to empowering businesses with robust digital infrastructure and innovative artificial intelligence solutions. We aim to support local independencies with reliable hosting while bridging the gap to the future through advanced outsourcing services.
+    Athenyx is a dynamic startup based in the Philippines, committed to empowering businesses with robust digital infrastructure and innovative artificial intelligence solutions. We aim to support local independencies with reliable hosting while bridging the gap to the future through advanced outsourcing services not only for the Philippines but internationally.
   </p>
 </div>
 
